@@ -1,0 +1,95 @@
+{
+  "profile": {
+    "title": "Profile",
+    "subtitle": "Manage your account & settings",
+    "name": "User Name",
+    "email": "user@email.com",
+    "stats": {
+      "projects": "Projects",
+      "revenue": "Revenue",
+      "level": "Level"
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "english": "English",
+      "arabic": "Arabic",
+      "account": "Account Settings",
+      "security": "Security",
+      "logout": "Logout"
+    }
+  },
+  "tabs": {
+    "wallet": "Wallet",
+    "profile": "Profile"
+  },
+  "campaigns": {
+    "empty": "No active campaigns yet.",
+    "title": "Active campaigns",
+    "statusSeparator": " · "
+  },
+  "wallet": {
+    "dashboard": {
+      "appName": "Expin Wallet",
+      "title": "Your earnings, clearly."
+    },
+    "overlay": {
+      "processing": "Processing withdrawal",
+      "sync": "Syncing with the server...",
+      "success": "Request queued"
+    },
+    "withdraw": {
+      "button": "Withdraw Funds",
+      "processing": "Processing..."
+    },
+    "balance": {
+      "available": "Available balance",
+      "pending": "Pending",
+      "state": "State",
+      "ready": "Ready",
+      "states": {
+        "processing": "Processing...",
+        "success": "Success",
+        "error": "Error"
+      }
+    },
+    "earnings": {
+      "title": "Earnings breakdown",
+      "thisMonth": "This month",
+      "lifetime": "Lifetime",
+      "campaignTitle": "Earnings by campaign"
+    },
+    "campaigns": {
+      "dubaiMarina": "Dubai Marina Launch",
+      "ramadanPack": "Ramadan Creator Pack",
+      "fintechWeek": "Fintech Week Stories"
+    },
+    "brands": {
+      "nuraLiving": "Nura Living",
+      "saffronPay": "Saffron Pay",
+      "stripeMena": "Stripe MENA"
+    },
+    "status": {
+      "endingSoon": "Ending soon",
+      "live": "Live",
+      "reviewing": "Under review"
+    }
+  },
+  "dashboard": {
+    "appName": "Expin Wallet",
+    "title": "Your earnings, clearly.",
+    "zeroBalance": "Zero balance for now — complete campaigns to unlock payouts.",
+    "loadingError": "Wallet could not be loaded."
+  },
+  "withdraw": {
+    "processing": "Processing...",
+    "button": "Withdraw Funds"
+  },
+  "overlay": {
+    "failed": "Withdrawal failed",
+    "success": "Request queued",
+    "processing": "Processing withdrawal",
+    "sync": "Syncing with the server...",
+    "retry": "Retry"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "profile": {
+    "title": "الملف الشخصي",
+    "subtitle": "إدارة حسابك وإعداداتك",
+    "name": "اسم المستخدم",
+    "email": "user@email.com",
+    "stats": {
+      "projects": "المشاريع",
+      "revenue": "الإيرادات",
+      "level": "المستوى"
+    },
+    "settings": {
+      "title": "الإعدادات",
+      "language": "اللغة",
+      "english": "الإنجليزية",
+      "arabic": "العربية",
+      "account": "إعدادات الحساب",
+      "security": "الأمان",
+      "logout": "تسجيل الخروج"
+    }
+  },
+  "tabs": {
+    "wallet": "المحفظة",
+    "profile": "الملف الشخصي"
+  },
+  "campaigns": {
+    "empty": "لا توجد حملات نشطة حالياً.",
+    "title": "الحملات النشطة",
+    "statusSeparator": " · "
+  },
+  "wallet": {
+    "dashboard": {
+      "appName": "محفظة Expin",
+      "title": "أرباحك، بشكل واضح."
+    },
+    "overlay": {
+      "processing": "جارٍ معالجة السحب",
+      "sync": "جاري مزامنة العملية مع الخادم...",
+      "success": "تم إرسال الطلب"
+    },
+    "withdraw": {
+      "button": "سحب الأموال",
+      "processing": "جارٍ التحويل..."
+    },
+    "balance": {
+      "available": "الرصيد المتاح",
+      "pending": "قيد الانتظار",
+      "state": "الحالة",
+      "ready": "جاهز",
+       "states": {
+        "processing": "جارٍ المعالجة...",
+        "success": "تم بنجاح",
+        "error": "خطأ"
+      }
+    },
+    "earnings": {
+      "title": "تفصيل الأرباح",
+      "thisMonth": "هذا الشهر",
+      "lifetime": "الإجمالي",
+      "campaignTitle": "الأرباح حسب الحملة"
+    },
+    "campaigns": {
+      "dubaiMarina": "إطلاق دبي مارينا",
+      "ramadanPack": "باقة رمضان للمبدعين",
+      "fintechWeek": "أسبوع الفنتك ستوريز"
+    },
+    "brands": {
+      "nuraLiving": "نورا ليفينغ",
+      "saffronPay": "سافرون باي",
+      "stripeMena": "سترايب مينا"
+    },
+    "status": {
+      "endingSoon": "ينتهي قريباً",
+      "live": "نشطة",
+      "reviewing": "قيد المراجعة"
+    }
+  },
+  "dashboard": {
+    "appName": "محفظة Expin",
+    "title": "أرباحك، بشكل واضح.",
+    "zeroBalance": "رصيدك صفر حالياً — أكمل الحملات لفتح الأرباح.",
+    "loadingError": "تعذر تحميل المحفظة."
+  },
+  "withdraw": {
+    "processing": "جارٍ المعالجة...",
+    "button": "سحب الأموال"
+  },
+  "overlay": {
+    "failed": "فشل السحب",
+    "success": "تم إرسال الطلب",
+    "processing": "جارٍ معالجة السحب",
+    "sync": "جاري مزامنة العملية مع الخادم...",
+    "retry": "إعادة المحاولة"
+  }
+}
